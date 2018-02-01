@@ -1,0 +1,227 @@
+body {
+  background-image: -webkit-linear-gradient(left, #c7c5c5 0%, #f8fff8 14%, #f8fff8 86%, #c7c5c5 100%);
+}
+
+.wrapper {
+  margin-left: 175px;
+  margin-right: 175px;
+}
+
+#logo {
+  margin-left: -7px;
+  margin-top: -18px;
+  max-width: 101%;
+  max-height: 100%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+ul {
+    display: flex;
+    word-spacing: -4px;
+    margin-top: 30px;
+    list-style-type: none;
+    font-family: 'rockwell regular';
+}
+
+#main_navigation {
+  width: 100%;
+  color: black;
+}
+
+#main_navigation ul {
+  padding: 0;
+  display: flex;
+}
+
+#main_navigation li {
+  flex: 1;
+}
+
+
+a:hover {
+  color:#D10707;
+}
+
+li {
+  float: left;
+  display: block;
+  text-align: center;
+}
+
+nav a {
+  color: black;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+h1 {
+  color: #D10707;
+  text-align: center;
+  margin-top: -8px;
+  padding-top: 40px;
+  font-family: 'rockwell regular';
+  border-top: solid black;
+}
+
+h2 {
+  color: #D10707;
+  text-align: center;
+  margin-top: -8px;
+  padding-top: 40px;
+  font-family: 'rockwell regular'
+}
+
+h3 {
+  font-family: 'rockwell regular';
+}
+
+h4 {
+  color: black;
+  text-align: center;
+  margin-top: -8px;
+  padding-top: 40px;
+  font-family: 'rockwell regular'
+}
+
+h6 {
+  font-family: 'rockwell regular';
+}
+
+p {
+  font-family: 'Cutive', serif;
+  font-weight: 500;
+  flex: 1;
+}
+
+.aboutme {
+  display: flex;
+  margin-top: 30px;
+}
+
+#me {
+  height: 350px;
+  width: 500px;
+  margin-top: 18px;
+  padding-right: 20px;
+}
+
+iframe {
+  flex: 1;
+}
+
+main {
+  display: flex;
+
+}
+
+article {
+  font-family: 'Cutive', serif;
+}
+
+aside {
+  font-family: 'Cutive', serif;
+}
+
+.content {
+  display: flex;
+}
+
+.cover {
+  display: flex;
+}
+
+#cover {
+  height: 430px;
+  width: 330px;
+}
+
+.spider {
+  display: flex;
+  padding-top: 0%;
+}
+
+.cssanimation {
+  display: flex;
+}
+
+#cssanimation {
+  width: 400px;
+  height: 300px;
+}
+
+.pendul {
+  display: flex;
+}
+
+#pendul {
+  width: 300px;
+  height: 300px;
+}
+
+.degree {
+  display: flex;
+}
+
+article{
+  flex: 5;
+  order: 1;
+}
+
+aside{
+  flex: 5;
+  order: 2;
+}
+
+footer {
+  text-align: center;
+  background-image: -webkit-linear-gradient(bottom  #f8fff8 100%);
+  font-family: 'rockwell';
+  float: right;
+  padding-top: 8px;
+  padding-bottom: 40px;
+}
+
+#portfoliofoot {
+  padding-left: 10px;
+}
+
+#contactfoot {
+  color: black;
+  padding-left: 10px;
+}
+
+.content {
+  width: 100%;
+  display: block;
+}
+#contact {
+  width: 100%;
+}
+
+#main_contact {
+  width: 100%;
+  color: black;
+}
+
+#main_contact ul {
+  padding: 0;
+  display: flex;
+}
+
+#main_contact li {
+  flex: 1;
+  }
+
+#contact li {
+  flex: 1;
+}
+
+#mail {
+  width: 100%;
+  text-align: center;
+  font-family: 'rockwell';
+}
